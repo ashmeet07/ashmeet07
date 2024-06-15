@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHZQsppMR6Cag/profile-displaybackgroundimage-shrink_350_1400/0/1716985154252?e=1723680000&v=beta&t=figQhIC3pZQqeBz7reuZJuWOjNoEWzwEmBOBaN4ml7k)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHZQsppMR6Cag/profile-displaybackgroundimage-shrink_350_1400/0/1716985154252?e=1723680000&v=beta&t=figQhIC3pZQqeBz7reuZJuWOjNoEWzwEmBOBaN4ml7k)
 <h1 align="center">Hi 👋 Ashmeet Here</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d24nbg944y50dy.cloudfront.net/p4dfhx%2Fpreview%2F58669177%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1718442241&Signature=GejZ4~ZIgTdBHyFAcQ2ejnEh7nj6qadr8zffZOQj7bf-0OKFY3UmzSfVpqH8PhZZYdLwrZ7vDRWMNSdRQ2hxOjCmCvHAOYsY-96MytHllrNqvmAt5FqPfQNsdpW1wWb2550m4P7LupOBDBml~-Usc-EFHYejAWXhQArZRbHVXo4HqxesYV-Zvg9bDlaL0WmnSnKVPrbJmD4S5FZ-ph3rHkqjdzzPEAH5gJz3SFVSK9-MdSP5VZw-Jz2il-PCYk5PiGwicucvRcUZI~bRIPXixaZ3grjG6xiuM8ovJ1n6fCUe82alygWyDN2GHaJdhcwcSJYog0ZN5CegU5ltYFOrjQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">

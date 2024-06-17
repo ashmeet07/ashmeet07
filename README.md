@@ -1,7 +1,7 @@
 ![MasterHead](https://pouch.jumpshare.com/preview/djSLyE7JtlZ2_qcleF8w3PNWizQY0ZaPPwURBtC5BWN9Tw83XdEUKMD3YQRlxfO-jEF0BDHU7m6g6ScMj_Vt8wwBBIArCLqT15FuWoo1waI)
 <h1 align="center">Hi 👋 Ashmeet Here</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://d24nbg944y50dy.cloudfront.net/p4dfhx%2Fpreview%2F58669177%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1718442241&Signature=GejZ4~ZIgTdBHyFAcQ2ejnEh7nj6qadr8zffZOQj7bf-0OKFY3UmzSfVpqH8PhZZYdLwrZ7vDRWMNSdRQ2hxOjCmCvHAOYsY-96MytHllrNqvmAt5FqPfQNsdpW1wWb2550m4P7LupOBDBml~-Usc-EFHYejAWXhQArZRbHVXo4HqxesYV-Zvg9bDlaL0WmnSnKVPrbJmD4S5FZ-ph3rHkqjdzzPEAH5gJz3SFVSK9-MdSP5VZw-Jz2il-PCYk5PiGwicucvRcUZI~bRIPXixaZ3grjG6xiuM8ovJ1n6fCUe82alygWyDN2GHaJdhcwcSJYog0ZN5CegU5ltYFOrjQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
+<img align="right" alt="Coding" width="400" src="https://pouch.jumpshare.com/preview/-5QAg8Y-vZ_K3RBl_-PvE2f8K5vKtB6dl3Vfw976xIYpwFqKmNEkRchw7q5XaOkr8HjfsrkfEODTALaLcO2CUG_oha6mwurR-mNhoY4CucI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmeet07&label=Profile%20views&color=0e75b6&style=flat" alt="ashmeet07" /> </p>
 

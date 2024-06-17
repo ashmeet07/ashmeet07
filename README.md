@@ -1,9 +1,9 @@
-![MasterHead](https://d2macr1mbp4om.cloudfront.net/u7tvnx%2Fpreview%2F58677545%2Fmain_large.jpg?response-content-disposition=inline%3Bfilename%3D%22main_large.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1718484007&Signature=OstRYExzcEhhfyo1x7AbLD5JA2eHIBqbJ6H3A5UzzqsWZ5BZCDnByldym4pHN9iReWiuL9AC~UTTB7IB9kiIFu~YUAA0i-DwME4Xz3kv3XO8iSS-tcT23pFKd41C9eCTbdWfzCMgrhGreYfTSN-V3E4P-ut0S9GQYBTKAPZp1Vulhwzu5wd0PvET8kwAIZqK0gHt6UuwFXMej7VSpTkEFQjuiGjylAUg5w-yzQnaEpkC0B~H6gBt06AiIuYW~sSyKJiTaSYw7oEoDYgLv7Q8s8PvQuRV-2NJO9nPthQUVs4VVL-WGVg5kBkm-IKCCrwcmzDH5wl76G8t41RWovkRtQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
+![MasterHead](https://pouch.jumpshare.com/preview/djSLyE7JtlZ2_qcleF8w3PNWizQY0ZaPPwURBtC5BWN9Tw83XdEUKMD3YQRlxfO-hFZ8FN86ty9SfYlzTawTeMol9YN6Qk-JQVRM9bOJ390)
 <h1 align="center">Hi 👋 Ashmeet Here</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://d24nbg944y50dy.cloudfront.net/p4dfhx%2Fpreview%2F58669177%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1718442241&Signature=GejZ4~ZIgTdBHyFAcQ2ejnEh7nj6qadr8zffZOQj7bf-0OKFY3UmzSfVpqH8PhZZYdLwrZ7vDRWMNSdRQ2hxOjCmCvHAOYsY-96MytHllrNqvmAt5FqPfQNsdpW1wWb2550m4P7LupOBDBml~-Usc-EFHYejAWXhQArZRbHVXo4HqxesYV-Zvg9bDlaL0WmnSnKVPrbJmD4S5FZ-ph3rHkqjdzzPEAH5gJz3SFVSK9-MdSP5VZw-Jz2il-PCYk5PiGwicucvRcUZI~bRIPXixaZ3grjG6xiuM8ovJ1n6fCUe82alygWyDN2GHaJdhcwcSJYog0ZN5CegU5ltYFOrjQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
+<img align="right" alt="Coding" width="400" src="https://pouch.jumpshare.com/preview/-5QAg8Y-vZ_K3RBl_-PvE2f8K5vKtB6dl3Vfw976xIYpwFqKmNEkRchw7q5XaOkrCDDTYZJK9eT9-Ru3BLzO2Lbk590Ugrck0hxKK21Ho9E">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmeet07&label=Profile%20views&color=0e75b6&style=flat" alt="ashmeet07" /> </p>
+<p align="left"> <img src="https://static-00.iconduck.com/assets.00/github-circle-icon-512x512-7mj2otxu.png" alt="ashmeet07" /> </p>
 
 - 🌱 I’m currently learning **Apache Spark**
 

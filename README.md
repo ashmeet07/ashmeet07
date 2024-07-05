@@ -1,9 +1,9 @@
-![MasterHead](https://pouch.jumpshare.com/preview/djSLyE7JtlZ2_qcleF8w3PNWizQY0ZaPPwURBtC5BWN9Tw83XdEUKMD3YQRlxfO-hFZ8FN86ty9SfYlzTawTeMol9YN6Qk-JQVRM9bOJ390)
+![MasterHead](https://iili.io/2y20Squ.jpg)
 <h1 align="center">Hi 👋 Ashmeet Here</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://pouch.jumpshare.com/preview/-5QAg8Y-vZ_K3RBl_-PvE2f8K5vKtB6dl3Vfw976xIYpwFqKmNEkRchw7q5XaOkrCDDTYZJK9eT9-Ru3BLzO2Lbk590Ugrck0hxKK21Ho9E">
+<img align="right" alt="Coding" width="400" src="https://iili.io/2y2GxxS.gif">
 
-<p align="left"> <img src="https://static-00.iconduck.com/assets.00/github-circle-icon-512x512-7mj2otxu.png" alt="ashmeet07" /> </p>
+<p align="left"> <img src="" alt="Profile" /> </p>
 
 - 🌱 I’m currently learning **Apache Spark**
 

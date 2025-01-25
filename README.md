@@ -1,7 +1,7 @@
-![MasterHead](https://pouch.jumpshare.com/preview/djSLyE7JtlZ2_qcleF8w3PNWizQY0ZaPPwURBtC5BWN9Tw83XdEUKMD3YQRlxfO-hFZ8FN86ty9SfYlzTawTeMol9YN6Qk-JQVRM9bOJ390)
+![MasterHead](https://d2macr1mbp4om.cloudfront.net/u7tvnx%2Fpreview%2F58677545%2Fmain_large.jpg?response-content-disposition=inline%3Bfilename%3D%22main_large.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1737813823&Signature=fxQ13BfceV9RZsU5BJtCy3Dv7HPbtgKZ4BmDWQILZ~csZUqIY9Hvg4~gS86lrHMQ9uzZC7K1yubedwMb21iSmTumR~qcNzrpT99naipRutvn3TMLPWjIPNvlvxvkSAi8JgUF7~~GNh43qKM80GMfbb6~mQDvx5l5pKF8TtegT2EIJdohWtxztjBQUxebTJVGNpU2FA2oaSwltk~KCpegjDpN4niQ21bPEWfKOVuXaDM3~eh6~b5FKGh8gVFeqqyifa~wytw0laJPDRNaZM0VTLR7lgDnBpjCjZCROHRaIWqXWanoZWmDA2YACCVfqDRjH4G-q~a7Iu02ejeqXEuLdw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 <h1 align="center">Hi 👋 Ashmeet Here</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://pouch.jumpshare.com/preview/-5QAg8Y-vZ_K3RBl_-PvE2f8K5vKtB6dl3Vfw976xIYpwFqKmNEkRchw7q5XaOkrCDDTYZJK9eT9-Ru3BLzO2Lbk590Ugrck0hxKK21Ho9E">
+<img align="right" alt="Coding" width="400" src="https://d24nbg944y50dy.cloudfront.net/p4dfhx%2Fpreview%2F58669177%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1737813885&Signature=VwDVQw~ZE7rS5jj2n1X~f-p8nffFAff2-35hiLqKzqcSB2KaJiGnV~j~JdtfMTR7U5feV0-j31pPOs682Kaj0SzAkAGoGjJlYTd3nYp6IqXGeG-M2oXCIztb4ce5rXqcPfDJQ~VJIoGOz4jZPcl3qqgS4NFuE3vugNfD22KY3XVYj5wglGbOMCScHblNKXHKUAijF-QgkruuxkfeCc~ln9u5LNqP55ho3KQQqnbFs8jfbOCfoHbBzOIjiwPPvUDf14sOJaPbNExqNxMF6c7mPSYuapAUY7sB6oONK-LkxzTUV2XLdRDZi3N1QgzN8NBQMBXnaDRht0rFWBr0nM9FZw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
 
 <p align="left"> <img src="" alt="Profile" /> </p>
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="" alt="Profile" /> </p>
 
-- 🌱 I’m currently learning **Apache Spark**
+- 🌱 I’m currently learning **To solve problem of real life.....!**
 
 - 📫 How to reach me **gaminggods0123@gmail.com**
 

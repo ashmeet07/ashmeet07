@@ -7,9 +7,11 @@ I'm a Computer Science graduate with a love for coding, data analysis, and the e
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 I am always eager to grow, innovate, and make an impact in the tech world.
 
-<p align="right"> 
-  <img src="https://profile-counter.glitch.me/ashmeet07/count.svg" />
-</p>
+<div align="right"> 
+  
+  ![](https://komarev.com/ghpvc/?username=ashmeet07&color=blueviolet)
+  
+</div>
 
 <!--- ICONS for my social profiles -->
 ## 🌐 Let's Connect
@@ -29,10 +31,10 @@ I am always eager to grow, innovate, and make an impact in the tech world.
 
 <div align="center">
   
-[![Ashmeets's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
-[![Ashmeets's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeet07&layout=compact&icons=true&theme=dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeet07&layout=compact&icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
+[![Ashmeets's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
+[![Ashmeets's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=shadow_blue&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeet07&layout=compact&icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeet07&layout=compact&icons=true&theme=graywhite&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
 
 </div>
 

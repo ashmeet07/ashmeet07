@@ -13,17 +13,11 @@ I am always eager to grow, innovate, and make an impact in the tech world.
   
 </div>
 
-<!--- ICONS for my social profiles -->
-## 🌐 Let's Connect
-
-<div align="center">
-
-| [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/ashmeet-singh-192610225/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/ashmeet07) |  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@learn_with_ashmeet) |
-|:--:|:--:|:--:|
-| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](myporfolio) | [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/singhashmeet) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='Tableau' height='40'>](https://public.tableau.com/app/profile/ashmeet5175/vizzes) | 
-| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40'>](https://leetcode.com/u/singhAshmeet/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='GeeksforGeeks' height='40'>](https://www.geeksforgeeks.org/user/gaminggom8kv/) | [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg' alt='HackerRank' height='40'>](https://www.hackerrank.com/profile/ashmeetsingh0123) |
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashmeet07" alt="ashmeet07" />
+  </a>
+</p>
 
 <!--- Github Stats -->
 
@@ -33,17 +27,15 @@ I am always eager to grow, innovate, and make an impact in the tech world.
   
 [![Ashmeets's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
 [![Ashmeets's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=shadow_blue&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeet07&layout=compact&icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmeet07&layout=compact&icons=true&theme=graywhite&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashmeet07&theme=dark&utcOffset=5.30#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashmeet07&theme=transparent&utcOffset=5.30#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashmeet07&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashmeet07&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
+
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ashmeet07&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=M-Y&icons=true&theme=whatsapp-dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ashmeet07&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=M-Y&icons=true&theme=whatsapp-light&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-
-</div>
 
 <!--- Tech Stack Array -->
 
@@ -70,6 +62,17 @@ I am always eager to grow, innovate, and make an impact in the tech world.
 <div align="right" style="text-align: right; position: absolute; right: 0; ">
 
 ### "— WAYNE DYER"
+
+</div>
+<!--- ICONS for my social profiles -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+| [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/ashmeet-singh-192610225/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/ashmeet07) |  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@learn_with_ashmeet) |
+|:--:|:--:|:--:|
+| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](myporfolio) | [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/singhashmeet) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='Tableau' height='40'>](https://public.tableau.com/app/profile/ashmeet5175/vizzes) | 
+| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40'>](https://leetcode.com/u/singhAshmeet/) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='GeeksforGeeks' height='40'>](https://www.geeksforgeeks.org/user/gaminggom8kv/) | [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg' alt='HackerRank' height='40'>](https://www.hackerrank.com/profile/ashmeetsingh0123) |
 
 </div>
 

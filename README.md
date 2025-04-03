@@ -65,6 +65,7 @@ I am always eager to grow, innovate, and make an impact in the tech world.
 
 </div>
 <!--- ICONS for my social profiles -->
+
 ## 🌐 Let's Connect
 
 <div align="center">

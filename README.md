@@ -2,6 +2,8 @@
 <!--- Header -->
 
 # Hi there, I'm Ashmeet! 👳🏼
+<h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>
+
 ![](https://media-hosting.imagekit.io//3a75a9ab48b34baf/TIMETO(1).gif?Expires=1837266669&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kondPd5RGP20yR6U7-xQbgPVa1VUcFpae6kMugLTxtJnvqsft8wJ4VbZOFlpr1-2PVTmwlJ8~hUj3Nc2ksMtwPCjksFe0itdCrBdJoxz1caOKnqYlZTPooZ7~ddF0GsTqeY1xgKyLnWD58902OO4B0KxtMFkXyh0ba2Gu1cm-kNeBWaU27qIcbRud8lEHEiH~I0PDDiLz8zxK3akO6P3O-GOYSA0arNNMzSdi4Bk1FJUINogH~kpqptLV9oJyKTIRfSYawTJY3dgCLkzFtmsOgEA5PhtsnPOUI7kfHk9Os3hF~dAGln09rA06veYDxxFQZng8OignEYhK5kTfqRfow__)
 I'm a Computer Science graduate with a love for coding, data analysis, and the ever-evolving world of technology.
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 

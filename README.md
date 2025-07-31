@@ -1,7 +1,7 @@
 
 <!--- Header -->
 
-# Hi there, I'm Ashmeet! 👳🏼
+# Hi there, I'm Ashmeet! 
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>
 I'm a Computer Science graduate with a love for coding, data analysis, and the ever-evolving world of technology.
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 

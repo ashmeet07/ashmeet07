@@ -13,11 +13,7 @@ I am always eager to grow, innovate, and make an impact in the tech world.
   
 </div>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox" alt="ashmeet07" />
-  </a>
-</p>
+
 
 <!--- Github Stats -->
 
@@ -80,3 +76,8 @@ I am always eager to grow, innovate, and make an impact in the tech world.
 
 </div>
 
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox" alt="ashmeet07" />
+  </a>
+</p>

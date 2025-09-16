@@ -6,9 +6,9 @@
 I'm a Computer Science graduate with a love for coding, data analysis, and the ever-evolving world of technology.
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 I am always eager to grow, innovate, and make an impact in the tech world.
-
-![WhatsApp Image 2025-09-16 at 23 47 39_259d63c1](https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140)
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="150" height="250">
+</div>
 
 <div align="right"> 
   

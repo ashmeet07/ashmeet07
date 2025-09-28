@@ -2,6 +2,16 @@
 <!--- Header -->
 
 # Hi there, I'm Ashmeet! 
+<div align="right">
+  <br>
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
+</div>
+
+<div align="right"> 
+  
+  ![](https://komarev.com/ghpvc/?username=ashmeet07&color=blueviolet)
+  
+</div>
 <div align=center>
 <a href="https://github-avatar-frame-api.vercel.app">
   <img src="https://github-avatar-frame-api.vercel.app/api/framed-avatar/ashmeet07?theme=neon&size=256" alt="avatar-api">
@@ -13,16 +23,7 @@ I love exploring new advancements and solving complex problems through programmi
 I am always eager to grow, innovate, and make an impact in the tech world.
 </div>
 
-<div align="right">
-  <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
-</div>
 
-<div align="right"> 
-  
-  ![](https://komarev.com/ghpvc/?username=ashmeet07&color=blueviolet)
-  
-</div>
 
 
 

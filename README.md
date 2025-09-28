@@ -34,8 +34,6 @@ I am always eager to grow, innovate, and make an impact in the tech world.
   
 [![Ashmeets's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=ambient_gradient&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
 [![Ashmeets's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ashmeet07&show_icons=true&theme=shadow_blue&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashmeet07&theme=dark&utcOffset=5.30#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashmeet07&theme=transparent&utcOffset=5.30#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashmeet07&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-dark-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashmeet07&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only)](https://github.com/ashmeet07/github-readme-stats#gh-light-mode-only)
 
@@ -60,20 +58,18 @@ I am always eager to grow, innovate, and make an impact in the tech world.
 
 
 
-<!--- Footer -->
 
-<div align="center">
 
-##  <h1 style="font-size: 3em; font-style:Sans-serif; ">✨"If you change the way you look at things, the things you look at change."✨</h1> 
 
-</div>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox" alt="ashmeet07" />
+  </a>
+</p>
 
-<div align="right" style="text-align: right; position: absolute; right: 0; ">
 
-### "— WAYNE DYER"
-
-</div>
 <!--- ICONS for my social profiles -->
+
 
 ## 🌐 Let's Connect
 
@@ -87,8 +83,16 @@ I am always eager to grow, innovate, and make an impact in the tech world.
 
 </div>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashmeet07&theme=gruvbox" alt="ashmeet07" />
-  </a>
-</p>
+
+<!--- Footer -->
+
+<div align="center">
+
+##  <h1 style="font-size: 3em; font-style:Sans-serif; ">✨"If you change the way you look at things, the things you look at change."✨</h1> 
+<div align="right" style="text-align: right; position: absolute; right: 0; ">
+
+### "— WAYNE DYER"
+
+</div>
+
+</div>

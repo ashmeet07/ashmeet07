@@ -2,15 +2,20 @@
 <!--- Header -->
 
 # Hi there, I'm Ashmeet! 
+<div align=center>
+<a href="https://github-avatar-frame-api.vercel.app">
+  <img src="https://github-avatar-frame-api.vercel.app/api/framed-avatar/ashmeet07?theme=neon&size=256" alt="avatar-api">
+</a>
+
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>
 I'm a Computer Science graduate with a love for coding, data analysis, and the ever-evolving world of technology.
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 I am always eager to grow, innovate, and make an impact in the tech world.
+</div>
 
-
-<div align="center">
+<div align="right">
   <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="150" height="250">
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
 </div>
 
 <div align="right"> 

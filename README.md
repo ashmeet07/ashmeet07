@@ -13,8 +13,8 @@
   
 </div>
 <div align=center>
-<a href="https://github-avatar-frame-api.vercel.app">
-  <img src="https://github-avatar-frame-api.vercel.app/api/framed-avatar/ashmeet07?theme=neon&size=256" alt="avatar-api">
+<a href="https://techquanta.tech">
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=neon&size=236" alt="avatar-api">
 </a>
 
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>

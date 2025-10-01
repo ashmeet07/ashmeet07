@@ -14,7 +14,7 @@
 </div>
 <div align=center>
 <a href="https://techquanta.tech">
-  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=neon&size=236" alt="avatar-api">
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=flamingo&size=244&canvas=dark&shape=rect&radius=20" alt="avatar-api">
 </a>
 
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>

@@ -1,10 +1,7 @@
 
-<!--- Header -->
-
-# Hi there, I'm Ashmeet! 
 <div align="right">
   <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="150">
 </div>
 
 <div align="right"> 
@@ -14,7 +11,7 @@
 </div>
 <div align=center>
 <a href="https://techquanta.tech">
-  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=flamingo&size=244&canvas=dark&shape=rect&radius=20" alt="avatar-api">
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=flamingo&size=214&canvas=dark&shape=rect&radius=20" alt="avatar-api">
 </a>
 
 <h2 align=center>TechQuanta Co-Founder || Data Science Enthusiasts || Content Creator</h2>

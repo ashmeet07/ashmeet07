@@ -4,7 +4,7 @@
 # Hi there, I'm Ashmeet! 
 <div align="right">
   <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="110" height="150">
 </div>
 
 <div align="right"> 

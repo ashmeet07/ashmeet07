@@ -1,0 +1,24 @@
+
+name : Achievements Metrics
+
+on :
+    schedule: [{cron: "0 0 * * 1"}]
+    push: {branches: ["main","master"]}
+    workflow_dispatch:
+jobs :
+    github-metrics:
+        runs-on : ubuntu-latest
+        steps : 
+            - uses: lowlighter/metrics@latest
+              with:
+                    token: ${{secrets.ACH_TOKEN}}
+                    committer_token : ${{secrets.GH_METRICS}}
+                    #Achievements
+                    filename: metrics.plugin.achievements.compact.svg
+
+                    user: ashmeet07
+                    template: classic
+                    base: ""
+
+                    plugin_achievements : yes
+                    plugin_achievements_display: compact

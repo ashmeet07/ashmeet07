@@ -25,7 +25,7 @@ jobs:
           # Base should be empty or minimal when using a single-plugin output like isocalendar
           base: header, metadata 
           config_animations: yes
-          config_timezone: America/Denver
+          config_timezone: Asia/Kolkata # <--- Changed to Indian Standard Time
 
           # Isocalendar Plugin
           plugin_isocalendar: yes
@@ -45,7 +45,7 @@ jobs:
           # Base content for a focused repository view
           base: repositories, activity, metadata
           config_animations: yes
-          config_timezone: America/Denver
+          config_timezone: Asia/Kolkata # <--- Changed to Indian Standard Time
           
           # Repository-focused plugins
           plugin_languages: yes
@@ -67,7 +67,7 @@ jobs:
           # Base should be empty when focusing on a single, non-core plugin
           base: metadata 
           config_animations: yes
-          config_timezone: America/Denver
+          config_timezone: Asia/Kolkata # <--- Changed to Indian Standard Time
 
           # Achievements Plugin
           plugin_achievements: yes

@@ -20,7 +20,7 @@ jobs:
           committer_token: ${{ secrets.GH_TOKEN }}
           
           # General Options
-          user: 
+          user: ashmeet07
           template: classic
           # Base should be empty or minimal when using a single-plugin output like isocalendar
           base: header, metadata 
@@ -62,7 +62,7 @@ jobs:
           committer_token: ${{ secrets.GH_TOKEN }}
 
           # General Options
-          user: lwasser
+          user: ashmeet07
           template: classic
           # Base should be empty when focusing on a single, non-core plugin
           base: metadata 

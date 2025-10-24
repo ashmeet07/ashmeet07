@@ -1,7 +1,7 @@
 <div align=center>
 
 
-<h2 align=center>  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >TechQuanta Co-Founder || Python Developer || Content Creator</h2>
+<h2 align=center>  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >TechQuanta Co-Founder || Software Engineer || Content Creator</h2>
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 
 </div>

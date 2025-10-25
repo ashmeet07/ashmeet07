@@ -1,7 +1,7 @@
 <div align=center>
 
 
-<h2 align=center>  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >TechQuanta Co-Founder || Software Engineer || Content Creator</h2>
+<h2 align=center>TechQuanta Co-Founder || Software Engineer || Content Creator</h2>
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 
 </div>
@@ -27,8 +27,9 @@ I love exploring new advancements and solving complex problems through programmi
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">](https://www.linux.org/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">](https://www.mongodb.com/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">](https://www.mysql.com/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">](https://pandas.pydata.org/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="Numpy" width="40" height="40">](https://www.w3.org/html/)   [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" width="40" height="40">](https://www.w3.org/html/)  
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">](https://www.photoshop.com/en)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://www.python.org)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="MacOs" width="40" height="40">](https://www.scala-lang.org)  
-[<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">](https://www.photoshop.com/en)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://www.python.org)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="MacOs" width="40" height="40">](https://www.scala-lang.org)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/) 
+
+<img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >
   
 </div>
 

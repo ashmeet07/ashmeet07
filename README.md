@@ -1,7 +1,7 @@
-<div align=center>
+<div align=left>
 
 
-<h2 align=center>TechQuanta Co-Founder || Software Engineer || Content Creator</h2>
+<h2 align=right>TechQuanta Co-Founder <> Software Engineer <> Content Creator</h2>
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 
 </div>
@@ -37,7 +37,7 @@ I love exploring new advancements and solving complex problems through programmi
 
 <div align="center">
 
-##  <h1 style="font-size: 3em; font-style:Sans-serif; ">"If you change the way you look at things, the things you look at change."</h1> 
+##  <h2><strong>~$</strong> If you change the way you look at things, the things you look at change.</h2> 
 <div align="right" style="text-align: right; position: absolute; right: 0; ">
 
 ### "— WAYNE DYER"

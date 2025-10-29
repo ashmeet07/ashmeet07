@@ -18,17 +18,55 @@ I love exploring new advancements and solving complex problems through programmi
 
 
 
-
-
 <!--- Tech Stack Array -->
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Android" width="40" height="40">](https://developer.android.com)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">](https://aws.amazon.com)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png" alt="C++" width="40" height="40">](https://www.w3schools.com/cpp/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="CSS3" width="40" height="40">](https://www.w3schools.com/css/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" width="40" height="40">](https://www.djangoproject.com/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Git" width="40" height="40">](https://git-scm.com/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="Hadoop" width="40" height="40">](https://hadoop.apache.org/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="40" height="40">](https://hive.apache.org/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scala.png" alt="Scala" width="40" height="40">](https://www.w3.org/html/) 
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">](https://www.linux.org/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">](https://www.mongodb.com/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">](https://www.mysql.com/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">](https://pandas.pydata.org/)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="Numpy" width="40" height="40">](https://www.w3.org/html/)   [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" width="40" height="40">](https://www.w3.org/html/)  
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">](https://www.photoshop.com/en)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://www.python.org)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="MacOs" width="40" height="40">](https://www.scala-lang.org)  [<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/) 
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="AWS" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  </br>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  </br>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="AWS" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="AWS" width="48" height="48" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  </br>
+  <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="GraphQL" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=atom" width="48" height="48" alt="GraphQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  </br>
 <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >
   
 </div>

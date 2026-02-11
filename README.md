@@ -51,20 +51,21 @@ I love exploring new advancements and solving complex problems through programmi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  </br>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
+    </br>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  </br>
+
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="AWS" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="AWS" width="48" height="48" /> 

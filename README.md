@@ -1,6 +1,6 @@
 <div align="left">
   <img
-    src="https://profile-calendar.vercel.app/image?title=Hey+Pal&font=cheese-orange&fontSize=100&bgColor=transparent&textColor=%23ffffff&radius=15"
+    src="https://profile-calendar.vercel.app/image?title=Hey+Pal&font=cheese-orange&fontSize=100&bgColor=transparent&textColor=%23009c6f&radius=0"
     alt="Profile Calendar"
     height="40"
   />

@@ -22,7 +22,7 @@ I love exploring new advancements and solving complex problems through programmi
 </a>
 
 
-<div align="center">
+<div align="left">
 
 ![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
 
@@ -33,7 +33,7 @@ I love exploring new advancements and solving complex problems through programmi
 
 
 <!--- Tech Stack Array -->
-<div align="center">
+<div align="left">
 
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +49,7 @@ I love exploring new advancements and solving complex problems through programmi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
+  </br>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /> 
@@ -60,12 +61,12 @@ I love exploring new advancements and solving complex problems through programmi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-    </br>
+   
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-
+ </br>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="AWS" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="AWS" width="48" height="48" /> 
@@ -90,8 +91,9 @@ I love exploring new advancements and solving complex problems through programmi
 
 <div align="center">
 
-##  <h2><strong>~$</strong> If you change the way you look at things, the things you look at change.</h2> 
-<div align="right" style="text-align: right; position: absolute; right: 0; ">
+  <h2><strong>~$</strong> If you change the way you look at things, the things you look at change.</h2> 
+
+<div align="right" >
 
 ### "— WAYNE DYER"
 

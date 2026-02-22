@@ -22,11 +22,17 @@ I love exploring new advancements and solving complex problems through programmi
 </a>
 
 
-<div align="left">
+<div align="center">
 
-![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
-
-![Repository Metrics](./metrics.repository.svg)
+ <img
+    src="./metrics.plugin.isocalendar.svg"
+    alt="Isometric Commit Calendar"
+    height="500"
+  /><img
+    src="./metrics.repository.svg"
+    alt="Repository Metrics"
+    height="500"
+  />
 </div>
 
 
@@ -49,12 +55,10 @@ I love exploring new advancements and solving complex problems through programmi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  </br>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /> 
@@ -66,7 +70,6 @@ I love exploring new advancements and solving complex problems through programmi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
- </br>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="AWS" width="48" height="48" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="AWS" width="48" height="48" /> 
@@ -77,12 +80,10 @@ I love exploring new advancements and solving complex problems through programmi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  </br>
   <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=atom" width="48" height="48" alt="GraphQL" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  </br>
 <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >
   
 </div>

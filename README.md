@@ -27,11 +27,11 @@ I love exploring new advancements and solving complex problems through programmi
  <img
     src="./metrics.plugin.isocalendar.svg"
     alt="Isometric Commit Calendar"
-    height="500"
+    height="300"
   /><img
     src="./metrics.repository.svg"
     alt="Repository Metrics"
-    height="500"
+    height="300"
   />
 </div>
 

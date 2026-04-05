@@ -68,6 +68,9 @@ I love exploring new advancements and solving complex problems through programmi
    
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://ashmeet.vercel.app/assets/harness.png" alt="MySQL" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="GraphQL" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="AWS" width="48" height="48" /> 

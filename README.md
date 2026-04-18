@@ -39,58 +39,31 @@ I love exploring new advancements and solving complex problems through programmi
 
 
 <!--- Tech Stack Array -->
-<div align="left">
-
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="AWS" width="48" height="48" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-   
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://ashmeet.vercel.app/assets/harness.png" alt="MySQL" width="48" height="48" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="AWS" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="AWS" width="48" height="48" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="GraphQL" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=atom" width="48" height="48" alt="GraphQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" alt="avatar-api" height=40 width=40 >
-  
-</div>
-
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  <img src="https://skillicons.dev/icons?i=graphql" width="48"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="48"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48"/>
+  <img src="https://ashmeet.vercel.app/assets/harness.png" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=scala" width="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="48"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" width="48"/>
+  <img src="https://skillicons.dev/icons?i=atom" width="48"/>
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" width="40"/>
+</p>
 <!--- Footer -->
 
 <div align="center">

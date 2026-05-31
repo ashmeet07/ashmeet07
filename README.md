@@ -62,7 +62,8 @@ I love exploring new advancements and solving complex problems through programmi
   <img src="https://skillicons.dev/icons?i=bash" width="48"/>
   <img src="https://skillicons.dev/icons?i=photoshop" width="48"/>
   <img src="https://skillicons.dev/icons?i=atom" width="48"/>
-  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gitblaze&size=214&canvas=dark&shape=rect&radius=70" width="40"/>
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gravityspace&size=448&canvas=transparent&shape=rect&radius=68&style=default" width="40"/>
+  
 </p>
 <!--- Footer -->
 

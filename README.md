@@ -53,7 +53,7 @@ I love exploring new advancements and solving complex problems through programmi
   <img src="https://skillicons.dev/icons?i=graphql" width="48"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="48"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48"/>
-  <img src="https://ashmeet.vercel.app/assets/harness.png" width="48"/>
+  <img src="https://ashmeet.vercel.app/media/tech-icons/harness.png" width="48"/>
   <img src="https://skillicons.dev/icons?i=postman" width="48"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/>
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48"/>

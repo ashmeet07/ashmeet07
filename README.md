@@ -1,3 +1,9 @@
+<h4 align="right">
+  &lt;TechQuanta Co-Founder&gt;
+  &lt;Software Engineer&gt;
+  &lt;Content Creator&gt;
+</h4>
+
 <div align="left">
   <img
     src="https://profile-calendar.vercel.app/image?title=Hey+Pal&font=cheese-orange&fontSize=100&bgColor=transparent&textColor=%23009c6f&radius=0"
@@ -10,11 +16,6 @@
 
 <div align=left>
 
-<h4 align="right">
-  &lt;TechQuanta Co-Founder&gt;
-  &lt;Software Engineer&gt;
-  &lt;Content Creator&gt;
-</h4>
 
 I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
 

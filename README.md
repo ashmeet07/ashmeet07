@@ -1,9 +1,3 @@
-<h4 align="right">
-  &lt;TechQuanta Co-Founder&gt;
-  &lt;Software Engineer&gt;
-  &lt;Content Creator&gt;
-</h4>
-
 <div align="left">
   <img
     src="https://profile-calendar.vercel.app/image?title=Hey+Pal&font=cheese-orange&fontSize=100&bgColor=transparent&textColor=%23009c6f&radius=0"
@@ -12,12 +6,15 @@
   />
 </div>
 
-
+# ![Ashmeet Singh](https://ashmeet07.in)
 
 <div align=left>
 
 
-I love exploring new advancements and solving complex problems through programming. For me, technology is a journey where I seek the alpha of knowledge, adapt to the beta of change, and embrace the gamma of endless possibilities. Every challenge excites me, every new concept fuels my curiosity, and 
+I’m a TechQuanta Co-Founder, Software Engineer, and Content Creator passionate about technology, programming, and innovation. I build robust, high-performance APIs, intelligent agents, and scalable backend solutions using Python, FastAPI, Java, and Spring Boot, with CI/CD at the core of my workflow. I enjoy exploring emerging technologies, solving complex problems, and turning ambitious ideas into practical solutions. 
+
+- For me, technology is a journey of continuous learning and growth—seeking the alpha of knowledge, adapting to the beta of change, and embracing the gamma of endless possibilities.
+
 
 </div>
 </a>

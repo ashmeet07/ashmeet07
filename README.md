@@ -6,7 +6,7 @@
   />
 </div>
 
-# ![Ashmeet Singh](https://ashmeet07.in)
+# <a href="https://ashmeet07.in">Ashmeet Singh</a>
 
 <div align=left>
 

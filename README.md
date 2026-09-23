@@ -1,8 +1,9 @@
 <div align="left">
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gravityspace&size=448&canvas=transparent&shape=rect&radius=68&style=default" width="90"/>
   <img
     src="https://profile-calendar.vercel.app/image?title=Hey+Pal&font=cheese-orange&fontSize=100&bgColor=transparent&textColor=%23009c6f&radius=0"
     alt="Profile Calendar"
-    height="40"
+    height="60"
   />
 </div>
 
@@ -60,7 +61,6 @@ I’m a TechQuanta Co-Founder, Software Engineer, and Content Creator passionate
   <img src="https://skillicons.dev/icons?i=bash" width="48"/>
   <img src="https://skillicons.dev/icons?i=photoshop" width="48"/>
   <img src="https://skillicons.dev/icons?i=atom" width="48"/>
-  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/ashmeet07?theme=gravityspace&size=448&canvas=transparent&shape=rect&radius=68&style=default" width="40"/>
   
 </p>
 <!--- Footer -->

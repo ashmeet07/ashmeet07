@@ -1,0 +1,33 @@
+name: 🌱 Daily GitHub Login
+
+on:
+  schedule:
+    # Every day at 9:00 AM IST (03:30 UTC)
+    - cron: "30 3 * * *"
+
+  # Allows manual execution from GitHub Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-login:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🌱 Update daily activity
+        run: |
+          echo "🌱 Daily GitHub login: $(date -u)" > daily-activity.txt
+
+      - name: 💚 Commit daily activity
+        run: |
+          git config user.name "ashmeet07"
+          git config user.email "YOUR_GITHUB_EMAIL"
+
+          git add daily-activity.txt
+          git commit -m "🌱 Daily GitHub login" || echo "No changes to commit"
+          git push
